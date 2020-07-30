@@ -1,5 +1,5 @@
 # acer-swift
-Scripts and mods to the Acer Swift 1
+Scripts and mods for the Acer Swift 1
 
 ## Folder Description
 - **Fusuma**
